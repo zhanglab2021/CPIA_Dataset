@@ -1,4 +1,4 @@
-# CPIA_data_process
+# CPIA_Dataset
 
 The CPIA dataset contains 3,474,406 (the total number is growing as we continue to process the datasets) standardized images, covering over 50 organs/tissues and about 98 kinds of diseases, which includes two main data types: whole slide images (WSIs) and characteristic regions of interest (ROIs).
 
