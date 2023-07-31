@@ -5,9 +5,11 @@ The CPIA dataset contains 3,474,406 (the total number is growing as we continue 
 In this repo, we provide relevant codes for processing all sub-datasets within the CPIA dataset. 
 
 <img width="466" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/1a7823f4-7c88-4d99-9ba7-0bd50759c3f1">
+
 *The compositions and WSI processing strategy of the CPIA dataset.*
 
 <img width="254" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/d5583369-be0c-49d8-9591-8bd764d44c93">
+
 *The multi-scale strategy and diverse characteristics of the CPIA dataset.*
 
 ## WSI
@@ -91,8 +93,6 @@ Before processing the data, please ensure that only the target images to be proc
 | Chaoyang                                             | CPIA_ROI_1_Crop&Resize                         | jpg    | FALSE     |
 | Colorectal Histology MNIST                           | CPIA_ROI_1_Crop&Resize                         | tif    | FALSE     |
 | CoNSeP                                               | CPIA_ROI_1_Crop&Resize                         | png    | FALSE     |
-| CPM_15                                               | CPIA_ROI_1_Crop&Resize                         | png    | FALSE     |
-| CPM_17                                               | CPIA_ROI_1_Crop&Resize                         | png    | TRUE      |
 | CRAG                                                 | CPIA_ROI_1_Crop&Resize                         | jpg    | FALSE     |
 | CRChistophenotypes                                   | CPIA_ROI_1_Crop&Resize                         | bmp    | FALSE     |
 | CRC-TP                                               | CPIA_ROI_1_Crop&Resize                         | png    | TRUE      |
@@ -121,6 +121,7 @@ Before processing the data, please ensure that only the target images to be proc
 | P_uninfected                                         | CPIA_ROI_1_MicroScope P.uninfected             | jpg    | FALSE     |
 | P_vivax                                              | CPIA_ROI_1_MicroScope P.vivax                  | jpg    | FALSE     |
 | PCam                                                 | CPIA_ROI_1_Crop&Resize                         | tif    | FALSE     |
+| pRCC                                                 | CPIA_ROI_1_Crop&Resize                         | jpg    | FALSE     |
 | SICAPv2                                              | CPIA_ROI_1_Crop&Resize                         | jpg    | FALSE     |
 | SIPaKMeD                                             | CPIA_ROI_0_SIPaKMeD + CPIA_ROI_1_Crop&Resize   | jpg    | FALSE     |
 | warwick_CLS                                          | CPIA_ROI_0_Warwick + CPIA_ROI_1_Crop&Resize    | jpg    | FALSE     |
