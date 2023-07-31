@@ -4,11 +4,11 @@ The CPIA dataset contains 3,474,406 (the total number is growing as we continue 
 
 In this repo, we provide relevant codes for processing all sub-datasets within the CPIA dataset. 
 
-<img width="466" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/1a7823f4-7c88-4d99-9ba7-0bd50759c3f1">
+<img width="466" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/7b1358ff-591e-4feb-b6a6-d4dfa9210d5f">
 
 *The compositions and WSI processing strategy of the CPIA dataset.*
 
-<img width="254" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/d5583369-be0c-49d8-9591-8bd764d44c93">
+<img width="254" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/8cc2a2f6-473c-44f5-827a-ea568bd289d2">
 
 *The multi-scale strategy and diverse characteristics of the CPIA dataset.*
 
