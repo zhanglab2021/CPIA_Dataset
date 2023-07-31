@@ -8,7 +8,7 @@ In this repo, we provide relevant codes for processing all sub-datasets within t
 
 *The compositions and WSI processing strategy of the CPIA dataset.*
 
-<img width="252" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/51f88e03-712d-4499-9e49-aac42d6b7435">
+<img width="253" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/8e3c52e4-5d02-4a8d-aef8-185a7a83a0c2">
 
 *The multi-scale strategy and diverse characteristics of the CPIA dataset.*
 
