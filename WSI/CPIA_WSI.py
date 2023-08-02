@@ -1,20 +1,14 @@
 """
-CPIA_WSI.py  ver： 22 Nov 10
+CPIA_WSI.py  ver： 23 Aug 2
 This code aims to split each whole slide image into standardised patches.
 The patch sizes are: 3840, 960, 384, 96
 """
 import os
-
 os.add_dll_directory(r"The/place/you/install/the/openslide")
-import openslide
-import shutil
 import PIL.Image as Image
 import numpy as np
 import openslide
 import torch
-from tqdm import tqdm
-import cv2
-from torchvision import transforms
 from PIL import ImageFile
 import pandas as pd
 
@@ -179,9 +173,9 @@ def pick_patch(patch):
     :return: bool
     """
     patch = array2img(patch)
-    img_single = patch.resize((1, 1), Image.ANTIALIAS)
+    img_single = patch.resize((1, 1), Image.BILINEAR)
     r, g, b = img_single.getpixel((0, 0))
-    if r - g < 30:
+    if r > 220 and g > 220 and b > 220:
         return False
     else:
         return True
@@ -398,10 +392,3 @@ if __name__ == '__main__':
                      'svs',
                      patient_folder=False,
                      L=True, M=True, S=True)
-
-
-
-
-
-
-
