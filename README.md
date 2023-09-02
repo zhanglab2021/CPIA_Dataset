@@ -128,3 +128,19 @@ Before processing the data, please ensure that only the target images to be proc
 | WBC                                                  | CPIA_ROI_1_Crop&Resize                         | jpg    | TRUE      |
 | Weinart et al, Scientific Reports 2012               | CPIA_ROI_1_Crop&Resize                         | jpg    | FALSE     |
 | WSSS4LUAD                                            | CPIA_ROI_1_Crop&Resize                         | png    | TRUE      |
+
+
+# CPIA_mini
+The CPIA-mini dataset is a lightweight and categorically balanced CPIA fraction. 
+In this dataset, sample number ratio of XL, L, M, and S is around 1:16:32:32.
+
+The CPIA_mini dataset can be downloaded at:
+
+BaiduDisk: https://pan.baidu.com/s/1alRuGmxa7fXQRhTiOlfKrw  Password: 9ub9
+
+<img width="494" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/173dbf1f-3eeb-42df-96ea-63f295c6837e">
+
+*The CPIA-mini dataset construction framework.*
+
+
+
