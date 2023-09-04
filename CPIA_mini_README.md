@@ -1,20 +1,20 @@
-# CPIA_mini
+# CPIA_Mini
 
-The CPIA-mini dataset is a lightweight and categorically balanced CPIA fraction. 
+The CPIA-Mini dataset is a lightweight and categorically balanced CPIA fraction. 
 In this dataset, sample number ratio of XL, L, M, and S is around 1:16:32:32.
 
-The CPIA_mini dataset can be downloaded at:
+The CPIA_Mini dataset can be downloaded at:
 
 BaiduDisk: https://pan.baidu.com/s/1alRuGmxa7fXQRhTiOlfKrw  Password: 9ub9
 
-<img width="494" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/173dbf1f-3eeb-42df-96ea-63f295c6837e">
+<img width="1076" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/b783e21c-c67e-4ceb-a1d8-e6b5294e7481">
 
-*The CPIA-mini dataset construction framework.*
+*The CPIA-Mini dataset construction framework.*
 
 
 ## Usage
 
-The CPIA_mini dataset is stored in a .zip archive format. After downloading the CPIA_mini dataset, researchers can use the following code to unzip the dataset in a Linux operating system and use the dataset as needed.
+The CPIA_Mini dataset is stored in a .zip archive format. After downloading the CPIA_Mini dataset, researchers can use the following code to unzip the dataset in a Linux operating system and use the dataset as needed.
 
 zip -F L.zip --out L_Scale.zip
 
