@@ -7,6 +7,8 @@ The CPIA_Mini dataset can be downloaded at:
 
 BaiduDisk: https://pan.baidu.com/s/1alRuGmxa7fXQRhTiOlfKrw  Password: 9ub9
 
+GoogleDrive: https://drive.google.com/drive/folders/1tCruBcWnADJTChgXgnOJSQLxIoroYoWD?usp=sharing
+
 <img width="1076" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/b783e21c-c67e-4ceb-a1d8-e6b5294e7481">
 
 *The CPIA-Mini dataset construction framework.*
