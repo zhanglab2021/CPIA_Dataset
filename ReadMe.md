@@ -128,3 +128,4 @@ Before processing the data, please ensure that only the target images to be proc
 | WBC                                                  | CPIA_ROI_1_Crop&Resize                         | jpg    | TRUE      |
 | Weinart et al, Scientific Reports 2012               | CPIA_ROI_1_Crop&Resize                         | jpg    | FALSE     |
 | WSSS4LUAD                                            | CPIA_ROI_1_Crop&Resize                         | png    | TRUE      |
+
