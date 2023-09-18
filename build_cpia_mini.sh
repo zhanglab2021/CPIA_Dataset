@@ -7,7 +7,7 @@ set -e
 # Create intermediate files
 zip -F L.zip --out L_Scale.zip
 zip -FF L_Scale.zip --out L.zip -fz
-zip -F M.zip --out M_Scale.zip\
+zip -F M.zip --out M_Scale.zip
 zip -FF M_Scale.zip --out M.zip -fz
 
 # Remove original & intermediate zip files
