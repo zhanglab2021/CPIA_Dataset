@@ -16,55 +16,6 @@ GoogleDrive: https://drive.google.com/drive/folders/1tCruBcWnADJTChgXgnOJSQLxIor
 
 ## Usage
 
-The CPIA_Mini dataset is stored in a .zip archive format. After downloading the CPIA_Mini dataset, researchers can use the following code to unzip the dataset in a Linux operating system and use the dataset as needed.
+The CPIA_Mini dataset is stored in a .zip archive format. After downloading the CPIA_Mini dataset in to your [CPIA directory], researchers can use the bash script 'nohup bash build_cpia_mini.sh &' at [CPIA directory] to unzip the dataset in a Linux operating system and use the dataset as needed.
 
-zip -F L.zip --out L_Scale.zip
-
-zip -FF L_Scale.zip --out L.zip -fz
-
-zip -F M.zip --out M_Scale.zip
-
-zip -FF M_Scale.zip --out M.zip -fz
-
-
-rm -f L_Scale.zip
-
-rm -f L.z01
-
-rm -f M_Scale.zip
-
-rm -f M.z01
-
-rm -f M.z02
-
-
-mv L.zip datasets
-
-mv M.zip datasets
-
-mv S.zip datasets
-
-
-cd datasets/path
-
-unzip L.zip
-
-unzip M.zip
-
-unzip S.zip
-
-
-rm -f L.zip
-
-rm -f M.zip
-
-rm -f S.zip
-
-
-mkdir All
-
-cp -r L/* All/ &
-
-cp -r M/* All/ &
-
-cp -r S/* All/ &
+After the building process, In [CPIA directory], there will be four folders: L,M,S,All correspingding to the multi-scale CPIA-mini subset and the total CPIA-mini dataset.
