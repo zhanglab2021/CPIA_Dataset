@@ -1,6 +1,6 @@
 #!/bin/bash
-# To run this script:
-# nohup bash build_cpia_mini.sh & 
+# To run this script: (Note to disable the terminal output)
+# nohup bash build_cpia_mini.sh > /dev/null 2>&1 &
 
 set -e
 
