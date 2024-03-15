@@ -110,7 +110,6 @@ Before processing the data, please ensure that only the target images to be proc
 | P_uninfected                                         | CPIA_ROI_1_MicroScope P.uninfected             | jpg    | FALSE     |
 | P_vivax                                              | CPIA_ROI_1_MicroScope P.vivax                  | jpg    | FALSE     |
 | PCam                                                 | CPIA_ROI_1_Crop&Resize                         | tif    | FALSE     |
-| pRCC                                                 | CPIA_ROI_1_Crop&Resize                         | jpg    | FALSE     |
 | SICAPv2                                              | CPIA_ROI_1_Crop&Resize                         | jpg    | FALSE     |
 | SIPaKMeD                                             | CPIA_ROI_0_SIPaKMeD + CPIA_ROI_1_Crop&Resize   | jpg    | FALSE     |
 | warwick_CLS                                          | CPIA_ROI_0_Warwick + CPIA_ROI_1_Crop&Resize    | jpg    | FALSE     |
