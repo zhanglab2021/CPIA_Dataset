@@ -1,5 +1,6 @@
 # CPIA Data Process
 
+
 ## WSI
 Each WSI dataset is divided into four levels using one python program. Most of the Whole Slide Imaging (WSI) images are stored in the SVS format, which includes the micron-per-pixel (MPP) information in the header file. Our processing program can automatically identify the MPP of each image and standardize it to 0.4942um/pixel by adjusting the edge length of each patch. Finally, the patch images are divided into four different sizes with edge lengths of 3840, 960, 384, and 96, respectively, and stored in their respective folders.
 | Sub-dataset name  | Process Code | Suffix |
