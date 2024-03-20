@@ -13,3 +13,14 @@ In this dataset, sample number ratio of XL, L, M, and S is around 1:16:32:32.
 The CPIA-Mini dataset is stored in a .zip archive format. After downloading the CPIA_Mini dataset in to your [CPIA directory], researchers can use the bash script 'nohup bash build_cpia_mini.sh &' at [CPIA directory] to unzip the dataset in a Linux operating system and use the dataset as needed.
 
 After the building process, In [CPIA directory], there will be four folders: L,M,S,All correspingding to the multi-scale CPIA-mini subset and the total CPIA-mini dataset.
+
+
+## Download
+
+The CPIA-Mini dataset can be download at:
+
+SicenceDB: The CPIA-Mini dataset are located at the Part01: https://www.scidb.cn/detail?dataSetId=e481637377534fa7994cb582bcec440a
+
+BaiduDisk: https://pan.baidu.com/s/1alRuGmxa7fXQRhTiOlfKrw Password: 9ub9
+
+GoogleDrive: https://drive.google.com/drive/folders/1tCruBcWnADJTChgXgnOJSQLxIoroYoWD?usp=sharing
