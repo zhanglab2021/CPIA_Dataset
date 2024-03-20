@@ -1,7 +1,6 @@
 # CPIA-Mini
 
-The CPIA-Mini dataset is a lightweight and categorically balanced CPIA fraction. 
-In this dataset, sample number ratio of XL, L, M, and S is around 1:16:32:32.
+The CPIA-Mini dataset is a lightweight and categorically balanced CPIA fraction, which includes 3,383,970 images. In this dataset, sample number ratio of XL, L, M, and S is around 1:16:32:32.
 
 <img width="1076" alt="image" src="https://github.com/zhanglab2021/CPIA_Dataset/assets/91015667/b783e21c-c67e-4ceb-a1d8-e6b5294e7481">
 
